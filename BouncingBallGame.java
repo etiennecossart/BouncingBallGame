@@ -4,7 +4,7 @@ import acm.util.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/**ƒtienne Cossart 
+/**Etienne Cossart 
   * 
   * September  22, 2015
   * 
